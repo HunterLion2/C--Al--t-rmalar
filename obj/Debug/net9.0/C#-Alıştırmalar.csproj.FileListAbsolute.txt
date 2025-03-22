@@ -1,0 +1,14 @@
+C:\Users\cozgu\Documents\C#-Alıştırmalar\obj\Debug\net9.0\C#-Alıştırmalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cozgu\Documents\C#-Alıştırmalar\obj\Debug\net9.0\C#-Alıştırmalar.AssemblyInfoInputs.cache
+C:\Users\cozgu\Documents\C#-Alıştırmalar\obj\Debug\net9.0\C#-Alıştırmalar.AssemblyInfo.cs
+C:\Users\cozgu\Documents\C#-Alıştırmalar\obj\Debug\net9.0\C#-Alıştırmalar.csproj.CoreCompileInputs.cache
+C:\Users\cozgu\Documents\C#-Alıştırmalar\bin\Debug\net9.0\C#-Alıştırmalar.exe
+C:\Users\cozgu\Documents\C#-Alıştırmalar\bin\Debug\net9.0\C#-Alıştırmalar.deps.json
+C:\Users\cozgu\Documents\C#-Alıştırmalar\bin\Debug\net9.0\C#-Alıştırmalar.runtimeconfig.json
+C:\Users\cozgu\Documents\C#-Alıştırmalar\bin\Debug\net9.0\C#-Alıştırmalar.dll
+C:\Users\cozgu\Documents\C#-Alıştırmalar\bin\Debug\net9.0\C#-Alıştırmalar.pdb
+C:\Users\cozgu\Documents\C#-Alıştırmalar\obj\Debug\net9.0\C#-Alıştırmalar.dll
+C:\Users\cozgu\Documents\C#-Alıştırmalar\obj\Debug\net9.0\refint\C#-Alıştırmalar.dll
+C:\Users\cozgu\Documents\C#-Alıştırmalar\obj\Debug\net9.0\C#-Alıştırmalar.pdb
+C:\Users\cozgu\Documents\C#-Alıştırmalar\obj\Debug\net9.0\C#-Alıştırmalar.genruntimeconfig.cache
+C:\Users\cozgu\Documents\C#-Alıştırmalar\obj\Debug\net9.0\ref\C#-Alıştırmalar.dll
