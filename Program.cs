@@ -45,78 +45,78 @@
 
 // 3. Uygulama
 
-using System.Globalization;
+// using System.Globalization;
 
-Console.Write("Şuanki Kilo Değerin Giriniz: ");
-int weight = int.Parse(Console.ReadLine());
+// Console.Write("Şuanki Kilo Değerin Giriniz: ");
+// int weight = int.Parse(Console.ReadLine());
 
-Console.Write("Şuanki Boy Bilginizi Giriniz(Noktalı Şekilde Giriniz): ");
-float length = float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+// Console.Write("Şuanki Boy Bilginizi Giriniz(Noktalı Şekilde Giriniz): ");
+// float length = float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-Console.WriteLine(length);
+// Console.WriteLine(length);
 
-Console.Write("Yaş Bilginizi Giriniz: ");
-int age = int.Parse(Console.ReadLine());
+// Console.Write("Yaş Bilginizi Giriniz: ");
+// int age = int.Parse(Console.ReadLine());
 
 
-var bki_hesaplama = (weight / (length * length));
+// var bki_hesaplama = (weight / (length * length));
 
-if(age <= 24 && age >= 19) {
+// if(age <= 24 && age >= 19) {
     
-    if(bki_hesaplama >= 19 && bki_hesaplama <= 24) {
-        Console.WriteLine($"Kilonuz İdeal Durumdadır. BKİ Değeriniz => {bki_hesaplama}");
-    } else {
-        Console.WriteLine($"BKİ Değeriniz Maalesef İdeal Durumda Değilsiniz => {bki_hesaplama}");
-    }
+//     if(bki_hesaplama >= 19 && bki_hesaplama <= 24) {
+//         Console.WriteLine($"Kilonuz İdeal Durumdadır. BKİ Değeriniz => {bki_hesaplama}");
+//     } else {
+//         Console.WriteLine($"BKİ Değeriniz Maalesef İdeal Durumda Değilsiniz => {bki_hesaplama}");
+//     }
 
-}
+// }
 
-if(age <= 34 && age >= 25) {
+// if(age <= 34 && age >= 25) {
     
-    if(bki_hesaplama >= 20 && bki_hesaplama <= 25) {
-        Console.WriteLine($"Kilonuz İdeal Durumdadır. BKİ Değeriniz => {bki_hesaplama}");
-    } else {
-        Console.WriteLine($"BKİ Değeriniz İdeal Durumda Değilsiniz => {bki_hesaplama}");
-    }
+//     if(bki_hesaplama >= 20 && bki_hesaplama <= 25) {
+//         Console.WriteLine($"Kilonuz İdeal Durumdadır. BKİ Değeriniz => {bki_hesaplama}");
+//     } else {
+//         Console.WriteLine($"BKİ Değeriniz İdeal Durumda Değilsiniz => {bki_hesaplama}");
+//     }
 
-}
+// }
 
-if(age <= 44 && age >= 35) {
+// if(age <= 44 && age >= 35) {
     
-    if(bki_hesaplama >= 21 && bki_hesaplama <= 26) {
-        Console.WriteLine($"Kilonuz İdeal Durumdadır. BKİ Değeriniz => {bki_hesaplama}");
-    } else {
-        Console.WriteLine($"BKİ Değeriniz İdeal Durumda Değilsiniz => {bki_hesaplama}");
-    }
+//     if(bki_hesaplama >= 21 && bki_hesaplama <= 26) {
+//         Console.WriteLine($"Kilonuz İdeal Durumdadır. BKİ Değeriniz => {bki_hesaplama}");
+//     } else {
+//         Console.WriteLine($"BKİ Değeriniz İdeal Durumda Değilsiniz => {bki_hesaplama}");
+//     }
 
-}
-if(age <= 54 && age >= 45) {
+// }
+// if(age <= 54 && age >= 45) {
     
-    if(bki_hesaplama >= 22 && bki_hesaplama <= 27) {
-        Console.WriteLine($"Kilonuz İdeal Durumdadır. BKİ Değeriniz => {bki_hesaplama}");
-    } else {
-        Console.WriteLine($"BKİ Değeriniz İdeal Durumda Değilsiniz => {bki_hesaplama}");
-    }
+//     if(bki_hesaplama >= 22 && bki_hesaplama <= 27) {
+//         Console.WriteLine($"Kilonuz İdeal Durumdadır. BKİ Değeriniz => {bki_hesaplama}");
+//     } else {
+//         Console.WriteLine($"BKİ Değeriniz İdeal Durumda Değilsiniz => {bki_hesaplama}");
+//     }
 
-}
+// }
 
-if(age <= 65 && age >= 55) {
+// if(age <= 65 && age >= 55) {
     
-    if(bki_hesaplama >= 23 && bki_hesaplama <= 28) {
-        Console.WriteLine($"Kilonuz İdeal Durumdadır. BKİ Değeriniz => {bki_hesaplama}");
-    } else {
-        Console.WriteLine($"BKİ Değeriniz İdeal Durumda Değilsiniz => {bki_hesaplama}");
-    }
+//     if(bki_hesaplama >= 23 && bki_hesaplama <= 28) {
+//         Console.WriteLine($"Kilonuz İdeal Durumdadır. BKİ Değeriniz => {bki_hesaplama}");
+//     } else {
+//         Console.WriteLine($"BKİ Değeriniz İdeal Durumda Değilsiniz => {bki_hesaplama}");
+//     }
 
-}
+// }
 
 
-if(age >= 65) {
+// if(age >= 65) {
     
-    if(bki_hesaplama >= 24 && bki_hesaplama <= 29) {
-        Console.WriteLine($"Kilonuz İdeal Durumdadır. BKİ Değeriniz => {bki_hesaplama}");
-    } else {
-        Console.WriteLine($"BKİ Değeriniz => {bki_hesaplama}");
-    }
+//     if(bki_hesaplama >= 24 && bki_hesaplama <= 29) {
+//         Console.WriteLine($"Kilonuz İdeal Durumdadır. BKİ Değeriniz => {bki_hesaplama}");
+//     } else {
+//         Console.WriteLine($"BKİ Değeriniz => {bki_hesaplama}");
+//     }
 
-}
+// }
